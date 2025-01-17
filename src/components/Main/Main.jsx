@@ -5,8 +5,12 @@ import './Main.css'
 function Main() {
     return (
         <>
-        <Content1 />
-        <Content2 />
+<div className="Main">
+    <Content1 />
+    <Content2 />
+</div>
+
+
         </>
     )
 }
